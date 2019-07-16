@@ -1,0 +1,26 @@
+button{
+    color: black;
+   display: block;
+   margin: auto;
+ }
+ h2{
+    text-align: center;
+ }
+ label{
+    color: yellow;
+ }
+ .required{
+ 
+    color: yellow;
+ }
+ *{
+    color: yellow;
+ }
+ 
+ *{
+    color: yellow;
+ }
+ p{
+    text-align: center;
+ }
+ 
