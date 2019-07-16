@@ -9,7 +9,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { LocationComponent } from './location/location.component';
 import { PriceComponent } from './price/price.component';
 import { GalleryComponent } from './gallery/gallery.component';
+import { FooterComponent } from './footer/footer.component';
 import { ContactusComponent } from './contactus/contactus.component';
+
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { ContactusComponent } from './contactus/contactus.component';
     LocationComponent,
     PriceComponent,
     GalleryComponent,
+    FooterComponent,
     ContactusComponent
+
   ],
   imports: [
     BrowserModule,
