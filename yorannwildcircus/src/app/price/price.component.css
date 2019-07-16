@@ -1,6 +1,15 @@
 .title-tarifs{
     text-align: center;
   }
+  i{
+    color: white
+  }
+  span{
+    color: white
+  }
+  h3{
+    color: white
+  }
   h5{
     font-family: 'Racing Sans One', cursive;
     font-weight: bold;
@@ -29,9 +38,9 @@
     font-family: 'Racing Sans One', cursive;
     font-size: 1.2rem;
     text-shadow: 0 1px rgba(230, 228, 120, 0.8);
-    background: rgb(238, 218, 39);
+    background: rgb(110, 4, 4);
     border: 1px solid rgb(61, 60, 60);
-    color: #333;
+    color:white;
     padding: 20px;
     width: 180px; 
     float: left;
@@ -62,12 +71,12 @@
     font-weight: normal;
     padding: 20px;
     margin: -20px -20px 50px -20px;
-    background-color: rgb(247, 207, 31);
+    background-color: rgb(110, 4, 4);
     background-image: linear-gradient(#fff, #eee);
   }
     
   #pricing-table #most-popular h3 {
-    background-color: rgb(233, 32, 75);
+    background-color: rgb(110, 4, 4);
     background-image: linear-gradient(#eee, #ddd);
     margin-top: -30px;
     padding-top: 30px;
@@ -85,7 +94,7 @@
   #pricing-table h3 span {
     display: block;
     font: bold 1.6rem/6.1rem 'Racing Sans One', cursive;
-    color: rgb(197, 62, 62);
+    color: white;
     background: #fff;
     border: 5px solid #fff;
     height: 100px;
@@ -121,15 +130,15 @@
     text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
-    background-color: #72ce3f;
+    background-color: rgb(110, 4, 4);
     background-image: linear-gradient(#72ce3f, #62bc30);
     border-radius: 3px;
     text-shadow: 0 1px 0 rgba(0,0,0,.3);
-    box-shadow: 0 1px 0 rgba(230, 27, 27, 0.5), 0 2px 0 rgba(0, 0, 0, .7);
+    box-shadow: 0 1px 0 rgba(247, 244, 244, 0.5), 0 2px 0 rgba(0, 0, 0, .7);
   }
     
   #pricing-table .signup:hover {
-    background-color: #62bc30;
+    background-color:rgb(110, 4, 4);
     background-image: linear-gradient(#d63b26, #72ce3f);
   }
     
@@ -162,28 +171,28 @@
     font-family: 'Racing Sans One', cursive;
   }
   .plan1{
-    background-color: rgb(151, 146, 146);
+    background-color: rgb(110, 4, 4);
     border-radius: 0.7rem;    
     margin-bottom: 2.5%;
     height: 23rem;
   }
   
   .plan2{
-    background-color: rgb(238, 174, 36);
+    background-color: rgb(110, 4, 4);
     border-radius: 0.7rem;      
     margin-bottom: 2.5%;
     height: 23rem;
   }
   
   .plan3{
-    background-color: rgb(27, 116, 189);
+    background-color: rgb(110, 4, 4);
     border-radius: 0.7rem;  
     margin-bottom: 2.5%;
     height: 23rem;
   }
   
   .plan4{
-    background-color: rgb(211, 63, 37);
+    background-color: rgb(110, 4, 4);
     border-radius: 0.7rem;  
     margin-bottom: 2.5%;
     height: 23rem;
@@ -276,8 +285,8 @@
   
   
   .button{
-    border: 2px solid yellow;
-    color: yellow;
+    border: 2px solid white;
+    color: white;
     border-radius: 10%;
     padding: 1%;
   }.button:hover{

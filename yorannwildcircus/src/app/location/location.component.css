@@ -1,15 +1,18 @@
 .part{
     border: 1px solid black ;
-    color: yellow;
+    color: rgb(112, 3, 3);
     font-size: 1rem
+}
+.couleur{
+    background-color: rgb(112, 3, 3)
 }
 i{
    
-    color: black;
+    color: rgb(112, 3, 3);
     text-align: center;
     
     border-radius: 65%;
-    background-color: yellow;
+    background-color: white;
     line-height: 1.4;
     text-align: center;
 }
@@ -17,13 +20,13 @@ i{
     font-weight: bold;
 }
 .title{
-    color: yellow;
+    color:white;
     text-align: center;
 }
 h2{
     font-size: 2rem;
     text-align: center;
-    color: yellow;
+    color:white;
 }
 .subtittle{
     font-size: 1.4rem;
@@ -35,11 +38,7 @@ h2{
 z-index: 0; }
 
 
-p{
-    font-size: 1.5rem;
-    text-align: center;
-    color: yellow;
-}
+
 .ml-1{
     font-size: 1.2rem;
     text-align: center;
@@ -55,9 +54,11 @@ p{
 }
 .fa-envelope, .fa-stopwatch{
     font-size: 1.2rem;
+    color: white
 }
 .fa-phone{
     font-size: 1.2rem;
+    color: white
 }
 .frame{
     border: 1px solid white;
@@ -67,5 +68,5 @@ p{
     color: white;
 }
 .title2{
-    color: yellow;
+    color:white;
 }
