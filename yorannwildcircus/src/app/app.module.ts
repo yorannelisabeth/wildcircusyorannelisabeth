@@ -12,6 +12,7 @@ import { PriceComponent } from './price/price.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactusComponent } from './contactus/contactus.component';
+import { PlanningComponent } from './planning/planning.component';
 
 
 var routes: Routes = [
@@ -28,6 +29,11 @@ var routes: Routes = [
         path: "gallery",
         pathMatch: "full",
         component: GalleryComponent
+      },
+      {
+        path: "planning",
+        pathMatch: "full",
+        component: PlanningComponent
       },
       {
         path: "price",
@@ -62,7 +68,8 @@ var routes: Routes = [
     PriceComponent,
     GalleryComponent,
     FooterComponent,
-    ContactusComponent
+    ContactusComponent,
+    PlanningComponent
 
   ],
   imports: [
