@@ -1,0 +1,15 @@
+.navbar, .navbar ul li a{
+    background-color: rgb(180, 7, 7);
+    font-weight: bold;
+    color: rgb(114, 114, 212);
+}
+.navbar li a:hover{
+    border-bottom: 0.1px solid white;
+    border-top: 0.1px solid white;
+} 
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}

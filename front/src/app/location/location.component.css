@@ -1,0 +1,72 @@
+.part{
+    border: 1px solid black ;
+    color: rgb(112, 3, 3);
+    font-size: 1rem
+}
+.couleur{
+    background-color: rgb(112, 3, 3)
+}
+i{
+   
+    color: rgb(112, 3, 3);
+    text-align: center;
+    
+    border-radius: 65%;
+    background-color: white;
+    line-height: 1.4;
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.title{
+    color:white;
+    text-align: center;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+}
+.subtittle{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+
+#frugalmap { height: 60vh;
+z-index: 0; }
+
+
+
+.ml-1{
+    font-size: 1.2rem;
+    text-align: center;
+}
+.section{
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+.fa-envelope, .fa-stopwatch{
+    font-size: 1.2rem;
+    color: white
+}
+.fa-phone{
+    font-size: 1.2rem;
+    color: white
+}
+.frame{
+    border: 1px solid white;
+    color: white;
+}
+.frame2{
+    color: white;
+}
+.title2{
+    color:white;
+}
