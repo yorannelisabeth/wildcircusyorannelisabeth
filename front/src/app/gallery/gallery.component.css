@@ -113,9 +113,9 @@
   
   
   img{
-    border:2px solid yellow;
+    border:2px solid white;
     border-radius: 5%;
-    box-shadow: 3px 2px 12px rgb(236, 222, 16);
+    box-shadow: 3px 2px 12px white;
     cursor: zoom-in;
   }
   
@@ -159,5 +159,17 @@
   padding: 2%;
   }
   .container{
-    background-color: rgb(180, 7, 7);
+    background-color: rgb(110, 4, 4);
+  }
+  h2{
+    color: white
+  }
+  p{
+    color: white
+  }
+  .lorem{
+    color: rgb(110, 4, 4)
+  }
+  .card{
+    border: 1px solid blue
   }

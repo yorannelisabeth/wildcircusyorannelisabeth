@@ -1,7 +1,7 @@
 .navbar, .navbar ul li a{
-    background-color: rgb(180, 7, 7);
+    background-color: rgb(110, 4, 4);
     font-weight: bold;
-    color: rgb(114, 114, 212);
+    color:white;
 }
 .navbar li a:hover{
     border-bottom: 0.1px solid white;

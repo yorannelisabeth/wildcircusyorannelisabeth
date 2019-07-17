@@ -1,5 +1,5 @@
 button{
-    color: black;
+    color: white;
    display: block;
    margin: auto;
  }
@@ -7,20 +7,22 @@ button{
     text-align: center;
  }
  label{
-    color: yellow;
+    color: white;
  }
  .required{
  
-    color: yellow;
+    color: white;
  }
  *{
-    color: yellow;
+    color: white;
  }
  
- *{
-    color: yellow;
- }
  p{
     text-align: center;
  }
- 
+ .btn{
+    background-color: white
+ }
+ .envoyer{
+    color: rgb(110, 4, 4)
+ }
