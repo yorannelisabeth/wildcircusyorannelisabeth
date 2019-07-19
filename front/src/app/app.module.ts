@@ -30,11 +30,7 @@ var routes: Routes = [
         pathMatch: "full",
         component: GalleryComponent
       },
-      {
-        path: "planning",
-        pathMatch: "full",
-        component: PlanningComponent
-      },
+    
       {
         path: "price",
         pathMatch: "full",

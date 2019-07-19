@@ -1,6 +1,5 @@
 .navbar, .navbar ul li a{
-    background-color: rgb(110, 4, 4);
-    font-weight: bold;
+        font-weight: bold;
     color:white;
 }
 .navbar li a:hover{
@@ -12,4 +11,9 @@
     position: fixed;
     width: 100%;
     z-index: 10;
+}
+.rideau{
+   
+    background-color: rgb(110, 4, 4);
+    background-repeat: repeat-x;
 }

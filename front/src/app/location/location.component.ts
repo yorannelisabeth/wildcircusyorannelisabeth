@@ -18,14 +18,14 @@ ngOnInit() {
     }).addTo(myfrugalmap);
 
     const myIconSportForU = L.icon({
-      iconUrl: './assets/images/logo.png',
+      iconUrl: "https://bit.ly/2XXFG4p",
       iconSize: [30,30],
       
     
     });
 
  // create popup contents
-    var customPopup = "<p>Avenue de Beauce 28240 LA LOUPE</p>";
+    var customPopup = "<p>12 rue du wildcircus 99999 wildcircus cedex</p>";
     
     // specify popup options 
     var myOptions =

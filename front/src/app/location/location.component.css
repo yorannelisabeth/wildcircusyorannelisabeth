@@ -6,16 +6,7 @@
 .couleur{
     background-color: rgb(112, 3, 3)
 }
-i{
-   
-    color: rgb(112, 3, 3);
-    text-align: center;
-    
-    border-radius: 65%;
-    background-color: white;
-    line-height: 1.4;
-    text-align: center;
-}
+
 .bold{
     font-weight: bold;
 }
@@ -69,4 +60,14 @@ p{
 }
 .title2{
     color:white;
+}
+i{
+   
+    color: rgb(112, 3, 3);
+    text-align: center;
+    
+    border-radius: 65%;
+    
+    line-height: 1.4;
+    text-align: center;
 }
